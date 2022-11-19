@@ -1,0 +1,11 @@
+# DO NOT MODIFY
+# This project uses standardrb
+# This file is only used to enable IDE plugins to work with standardrb.
+
+AllCops:
+  TargetRubyVersion: 3.1.2
+
+require: standard
+
+inherit_gem:
+  standard: config/base.yml

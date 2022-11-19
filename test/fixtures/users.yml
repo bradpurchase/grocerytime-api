@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: brad@grocerytime.app
+  password: MyText
+  name: MyString
+  last_seen_at:
+  password_reset_token:
+  password_reset_token_expiry:
+  siwa_id: one
+
+two:
+  email: trey@grocerytime.app
+  password: MyText
+  name: MyString
+  last_seen_at:
+  password_reset_token:
+  password_reset_token_expiry:
+  siwa_id: two

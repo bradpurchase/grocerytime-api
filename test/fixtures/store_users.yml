@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  store: one
+  user: one
+  email: MyString
+  creator: false
+  active: false
+  deleted_at: 
+  default_store: false
+
+two:
+  store: two
+  user: two
+  email: MyString
+  creator: false
+  active: false
+  deleted_at: 
+  default_store: false

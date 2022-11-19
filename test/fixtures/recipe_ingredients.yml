@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  recipe: one
+  name: MyString
+  amount: MyString
+  unit: MyString
+  notes: MyString
+  deleted_at: 
+
+two:
+  recipe: two
+  name: MyString
+  amount: MyString
+  unit: MyString
+  notes: MyString
+  deleted_at: 

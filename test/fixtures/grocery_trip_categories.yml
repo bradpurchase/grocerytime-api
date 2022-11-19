@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  grocery_trip: one
+  store_category: one
+  deleted_at: 
+
+two:
+  grocery_trip: two
+  store_category: two
+  deleted_at: 

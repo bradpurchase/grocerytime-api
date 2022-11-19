@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip: one
+  category: one
+  user: one
+  name: MyString
+  quantity: 1
+  completed: false
+  position: 1
+  deleted_at:
+  meal: one
+  notes: MyString
+  meal_name: MyString
+  staple_item: one
+
+two:
+  trip: two
+  category: two
+  user: two
+  name: MyString
+  quantity: 1
+  completed: false
+  position: 1
+  deleted_at:
+  meal: two
+  notes: MyString
+  meal_name: MyString
+  staple_item: two

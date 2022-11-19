@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  user: one
+  access_token: MyString
+  device_name: MyString
+
+two:
+  client: two
+  user: two
+  access_token: MyString
+  device_name: MyString
