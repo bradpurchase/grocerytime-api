@@ -1,22 +1,48 @@
 require "test_helper"
 
 class ItemTest < ActiveSupport::TestCase
+  attr_reader :trip, :user, :category
+
   setup do
     @trip = grocery_trips(:one)
     @user = @trip.items.first.user
     @category = @trip.items.first.category
-    @item = @trip.items.create!(user: @user, category: @category, name: "Apples", quantity: 1)
+  end
+
+  let(:item_name) { "Apples" }
+  let(:quantity) { 1 }
+  let!(:item) do
+    trip.items.create!(user: user, category: category, name: item_name, quantity: quantity)
   end
 
   describe "before_create" do
-    test "sets the position position" do
-      assert_equal 1, @item.reload.position
+    test "sets the item's position" do
+      assert_equal 1, item.reload.position
     end
   end
 
-  describe "after_create" do
+  describe "before_save" do
+    test "parses an item name with no embedded quantity" do
+      assert_equal item_name, item.name
+      assert_equal 1, item.quantity
+    end
+
+    describe "quantity embedded in item name" do
+      let(:item_name) { "Egg Whites x 2" }
+      let!(:item) do
+        trip.items.create!(user: user, category: category, name: item_name)
+      end
+
+      test "correctly parses an item name with embedded quantity" do
+        assert_equal "Egg Whites", item.name
+        assert_equal 2, item.quantity
+      end
+    end
+  end
+
+  describe "associations" do
     test "updates the trip's updated_at timestamp" do
-      assert_equal Time.now.to_i, @item.reload.trip.updated_at.to_i
+      assert_equal Time.now.to_i, item.reload.trip.updated_at.to_i
     end
   end
 end
