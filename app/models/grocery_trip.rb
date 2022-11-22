@@ -2,6 +2,7 @@ class GroceryTrip < ApplicationRecord
   belongs_to :store
 
   has_many :items
+  has_many :categories, class_name: GroceryTripCategory.to_s
 
   before_create :set_trip_name
 
