@@ -2,14 +2,14 @@
 
 one:
   store: one
-  name: MyString
+  name: Nov 25, 2022
   completed: false
   copy_remaining_items: false
-  deleted_at: 
+  deleted_at:
 
 two:
   store: two
   name: MyString
   completed: false
   copy_remaining_items: false
-  deleted_at: 
+  deleted_at:

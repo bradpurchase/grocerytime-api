@@ -1,0 +1,2365 @@
+{
+  "foods": [
+    {
+      "text": "beer",
+      "label": "Alcohol"
+    },
+    {
+      "text": "booze",
+      "label": "Alcohol"
+    },
+    {
+      "text": "wine",
+      "label": "Alcohol"
+    },
+    {
+      "text": "red wine",
+      "label": "Alcohol"
+    },
+    {
+      "text": "white wine",
+      "label": "Alcohol"
+    },
+    {
+      "text": "reisling",
+      "label": "Alcohol"
+    },
+    {
+      "text": "liquor",
+      "label": "Alcohol"
+    },
+    {
+      "text": "spirits",
+      "label": "Alcohol"
+    },
+    {
+      "text": "whiskey",
+      "label": "Alcohol"
+    },
+    {
+      "text": "bourbon",
+      "label": "Alcohol"
+    },
+    {
+      "text": "scotch",
+      "label": "Alcohol"
+    },
+    {
+      "text": "rum",
+      "label": "Alcohol"
+    },
+    {
+      "text": "brandy",
+      "label": "Alcohol"
+    },
+    {
+      "text": "vodka",
+      "label": "Alcohol"
+    },
+    {
+      "text": "gin",
+      "label": "Alcohol"
+    },
+    {
+      "text": "tequila",
+      "label": "Alcohol"
+    },
+    {
+      "text": "mezcal",
+      "label": "Alcohol"
+    },
+    {
+      "text": "prosecco",
+      "label": "Alcohol"
+    },
+    {
+      "text": "champagne",
+      "label": "Alcohol"
+    },
+    {
+      "text": "white claw",
+      "label": "Alcohol"
+    },
+    {
+      "text": "dry vermouth",
+      "label": "Alcohol"
+    },
+    {
+      "text": "fruits",
+      "label": "Produce"
+    },
+    {
+      "text": "greens",
+      "label": "Produce"
+    },
+    {
+      "text": "apples",
+      "label": "Produce"
+    },
+    {
+      "text": "pears",
+      "label": "Produce"
+    },
+    {
+      "text": "kiwi",
+      "label": "Produce"
+    },
+    {
+      "text": "bananas",
+      "label": "Produce"
+    },
+    {
+      "text": "oranges",
+      "label": "Produce"
+    },
+    {
+      "text": "mandarins",
+      "label": "Produce"
+    },
+    {
+      "text": "clementines",
+      "label": "Produce"
+    },
+    {
+      "text": "strawberries",
+      "label": "Produce"
+    },
+    {
+      "text": "pineapple",
+      "label": "Produce"
+    },
+    {
+      "text": "fresh pineapple",
+      "label": "Produce"
+    },
+    {
+      "text": "mango",
+      "label": "Produce"
+    },
+    {
+      "text": "apricot",
+      "label": "Produce"
+    },
+    {
+      "text": "carrots",
+      "label": "Produce"
+    },
+    {
+      "text": "baby carrots",
+      "label": "Produce"
+    },
+    {
+      "text": "broccoli",
+      "label": "Produce"
+    },
+    {
+      "text": "lettuce",
+      "label": "Produce"
+    },
+    {
+      "text": "iceberg lettuce",
+      "label": "Produce"
+    },
+    {
+      "text": "romaine lettuce",
+      "label": "Produce"
+    },
+    {
+      "text": "spinach",
+      "label": "Produce"
+    },
+    {
+      "text": "baby spinach",
+      "label": "Produce"
+    },
+    {
+      "text": "kale",
+      "label": "Produce"
+    },
+    {
+      "text": "cabbage",
+      "label": "Produce"
+    },
+    {
+      "text": "red cabbage",
+      "label": "Produce"
+    },
+    {
+      "text": "green cabbage",
+      "label": "Produce"
+    },
+    {
+      "text": "mushrooms",
+      "label": "Produce"
+    },
+    {
+      "text": "onions",
+      "label": "Produce"
+    },
+    {
+      "text": "red onion",
+      "label": "Produce"
+    },
+    {
+      "text": "brown onion",
+      "label": "Produce"
+    },
+    {
+      "text": "green onions",
+      "label": "Produce"
+    },
+    {
+      "text": "yellow onion",
+      "label": "Produce"
+    },
+    {
+      "text": "sweet onion",
+      "label": "Produce"
+    },
+    {
+      "text": "potato",
+      "label": "Produce"
+    },
+    {
+      "text": "potatoes",
+      "label": "Produce"
+    },
+    {
+      "text": "sweet potatoes",
+      "label": "Produce"
+    },
+    {
+      "text": "yams",
+      "label": "Produce"
+    },
+    {
+      "text": "tomato",
+      "label": "Produce"
+    },
+    {
+      "text": "tomatoes",
+      "label": "Produce"
+    },
+    {
+      "text": "cherry tomatoes",
+      "label": "Produce"
+    },
+    {
+      "text": "sundried tomato",
+      "label": "Produce"
+    },
+    {
+      "text": "dill",
+      "label": "Produce"
+    },
+    {
+      "text": "salad",
+      "label": "Produce"
+    },
+    {
+      "text": "salad kit",
+      "label": "Produce"
+    },
+    {
+      "text": "slaw",
+      "label": "Produce"
+    },
+    {
+      "text": "coleslaw",
+      "label": "Produce"
+    },
+    {
+      "text": "cole slaw",
+      "label": "Produce"
+    },
+    {
+      "text": "broccoli slaw",
+      "label": "Produce"
+    },
+    {
+      "text": "brussels sprouts",
+      "label": "Produce"
+    },
+    {
+      "text": "cabbage",
+      "label": "Produce"
+    },
+    {
+      "text": "cauliflower",
+      "label": "Produce"
+    },
+    {
+      "text": "turnip",
+      "label": "Produce"
+    },
+    {
+      "text": "asparagus",
+      "label": "Produce"
+    },
+    {
+      "text": "peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "bell peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "green peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "yellow peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "red peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "orange peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "jalapeno peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "jalapeños",
+      "label": "Produce"
+    },
+    {
+      "text": "poblano peppers",
+      "label": "Produce"
+    },
+    {
+      "text": "squash",
+      "label": "Produce"
+    },
+    {
+      "text": "garlic",
+      "label": "Produce"
+    },
+    {
+      "text": "garlic cloves",
+      "label": "Produce"
+    },
+    {
+      "text": "horseradish",
+      "label": "Produce"
+    },
+    {
+      "text": "celery",
+      "label": "Produce"
+    },
+    {
+      "text": "leek",
+      "label": "Produce"
+    },
+    {
+      "text": "beet",
+      "label": "Produce"
+    },
+    {
+      "text": "beets",
+      "label": "Produce"
+    },
+    {
+      "text": "lemon",
+      "label": "Produce"
+    },
+    {
+      "text": "lemons",
+      "label": "Produce"
+    },
+    {
+      "text": "mint",
+      "label": "Produce"
+    },
+    {
+      "text": "basil",
+      "label": "Produce"
+    },
+    {
+      "text": "thyme",
+      "label": "Produce"
+    },
+    {
+      "text": "lime",
+      "label": "Produce"
+    },
+    {
+      "text": "limes",
+      "label": "Produce"
+    },
+    {
+      "text": "avocado",
+      "label": "Produce"
+    },
+    {
+      "text": "watermelon",
+      "label": "Produce"
+    },
+    {
+      "text": "honeydew",
+      "label": "Produce"
+    },
+    {
+      "text": "honeydew melon",
+      "label": "Produce"
+    },
+    {
+      "text": "melon",
+      "label": "Produce"
+    },
+    {
+      "text": "tofu",
+      "label": "Produce"
+    },
+    {
+      "text": "cilantro",
+      "label": "Produce"
+    },
+    {
+      "text": "coriander",
+      "label": "Produce"
+    },
+    {
+      "text": "coriander seed",
+      "label": "Produce"
+    },
+    {
+      "text": "fennel seed",
+      "label": "Produce"
+    },
+    {
+      "text": "parsley",
+      "label": "Produce"
+    },
+    {
+      "text": "green onion",
+      "label": "Produce"
+    },
+    {
+      "text": "escallion",
+      "label": "Produce"
+    },
+    {
+      "text": "scallion",
+      "label": "Produce"
+    },
+    {
+      "text": "cucumber",
+      "label": "Produce"
+    },
+    {
+      "text": "zucchini",
+      "label": "Produce"
+    },
+    {
+      "text": "courgette",
+      "label": "Produce"
+    },
+    {
+      "text": "rutabaga",
+      "label": "Produce"
+    },
+    {
+      "text": "okra",
+      "label": "Produce"
+    },
+    {
+      "text": "grapes",
+      "label": "Produce"
+    },
+    {
+      "text": "berries",
+      "label": "Produce"
+    },
+    {
+      "text": "blueberries",
+      "label": "Produce"
+    },
+    {
+      "text": "blackberries",
+      "label": "Produce"
+    },
+    {
+      "text": "raspberries",
+      "label": "Produce"
+    },
+    {
+      "text": "pimento",
+      "label": "Produce"
+    },
+    {
+      "text": "jalapeno",
+      "label": "Produce"
+    },
+    {
+      "text": "zucchini",
+      "label": "Produce"
+    },
+    {
+      "text": "olives",
+      "label": "Produce"
+    },
+    {
+      "text": "rosemary",
+      "label": "Produce"
+    },
+    {
+      "text": "cherries",
+      "label": "Produce"
+    },
+    {
+      "text": "green beans",
+      "label": "Produce"
+    },
+    {
+      "text": "corn",
+      "label": "Produce"
+    },
+    {
+      "text": "corn on the cob",
+      "label": "Produce"
+    },
+    {
+      "text": "fish",
+      "label": "Seafood"
+    },
+    {
+      "text": "baby",
+      "label": "Baby"
+    },
+
+    {
+      "text": "baby wipes",
+      "label": "Baby"
+    },
+    {
+      "text": "diapers",
+      "label": "Baby"
+    },
+    {
+      "text": "formula",
+      "label": "Baby"
+    },
+    {
+      "text": "bread",
+      "label": "Bakery"
+    },
+    {
+      "text": "white bread",
+      "label": "Bakery"
+    },
+    {
+      "text": "rye bread",
+      "label": "Bakery"
+    },
+    {
+      "text": "wheat bread",
+      "label": "Bakery"
+    },
+    {
+      "text": "pita bread",
+      "label": "Bakery"
+    },
+    {
+      "text": "bun",
+      "label": "Bakery"
+    },
+    {
+      "text": "buns",
+      "label": "Bakery"
+    },
+    {
+      "text": "bagel",
+      "label": "Bakery"
+    },
+    {
+      "text": "bagels",
+      "label": "Bakery"
+    },
+    {
+      "text": "baguette",
+      "label": "Bakery"
+    },
+    {
+      "text": "croissant",
+      "label": "Bakery"
+    },
+    {
+      "text": "croissants",
+      "label": "Bakery"
+    },
+    {
+      "text": "ciabatta",
+      "label": "Bakery"
+    },
+    {
+      "text": "focaccia",
+      "label": "Bakery"
+    },
+    {
+      "text": "cake",
+      "label": "Bakery"
+    },
+    {
+      "text": "cookies",
+      "label": "Bakery"
+    },
+    {
+      "text": "cupcake",
+      "label": "Bakery"
+    },
+    {
+      "text": "pie",
+      "label": "Bakery"
+    },
+    {
+      "text": "pita",
+      "label": "Bakery"
+    },
+    {
+      "text": "naan",
+      "label": "Bakery"
+    },
+    {
+      "text": "wraps",
+      "label": "Bakery"
+    },
+    {
+      "text": "tortillas",
+      "label": "Bakery"
+    },
+    {
+      "text": "tortilla wraps",
+      "label": "Bakery"
+    },
+    {
+      "text": "dough",
+      "label": "Bakery"
+    },
+    {
+      "text": "pizza dough",
+      "label": "Bakery"
+    },
+    {
+      "text": "crepes",
+      "label": "Bakery"
+    },
+    {
+      "text": "brownies",
+      "label": "Bakery"
+    },
+    {
+      "text": "croutons",
+      "label": "Bakery"
+    },
+    {
+      "text": "baking",
+      "label": "Baking"
+    },
+    {
+      "text": "baking soda",
+      "label": "Baking"
+    },
+    {
+      "text": "chocolate chips",
+      "label": "Baking"
+    },
+    {
+      "text": "cocoa powder",
+      "label": "Baking"
+    },
+    {
+      "text": "coconut",
+      "label": "Baking"
+    },
+    {
+      "text": "cooking spray",
+      "label": "Baking"
+    },
+    {
+      "text": "starch",
+      "label": "Baking"
+    },
+    {
+      "text": "flour",
+      "label": "Baking"
+    },
+    {
+      "text": "almond flour",
+      "label": "Baking"
+    },
+    {
+      "text": "bread flour",
+      "label": "Baking"
+    },
+    {
+      "text": "molasses",
+      "label": "Baking"
+    },
+    {
+      "text": "lemon juice",
+      "label": "Baking"
+    },
+    {
+      "text": "evaporated milk",
+      "label": "Baking"
+    },
+    {
+      "text": "condensed milk",
+      "label": "Baking"
+    },
+    {
+      "text": "powdered milk",
+      "label": "Baking"
+    },
+    {
+      "text": "shortening",
+      "label": "Baking"
+    },
+    {
+      "text": "sugar",
+      "label": "Baking"
+    },
+    {
+      "text": "white sugar",
+      "label": "Baking"
+    },
+    {
+      "text": "brown sugar",
+      "label": "Baking"
+    },
+    {
+      "text": "vanilla extract",
+      "label": "Baking"
+    },
+    {
+      "text": "yeast",
+      "label": "Baking"
+    },
+    {
+      "text": "graham crackers",
+      "label": "Baking"
+    },
+    {
+      "text": "pie crust",
+      "label": "Baking"
+    },
+    {
+      "text": "garlic bread",
+      "label": "Baking"
+    },
+    {
+      "text": "drinks",
+      "label": "Beverages"
+    },
+    {
+      "text": "soda",
+      "label": "Beverages"
+    },
+    {
+      "text": "pop",
+      "label": "Beverages"
+    },
+    {
+      "text": "soft drink",
+      "label": "Beverages"
+    },
+    {
+      "text": "coca cola",
+      "label": "Beverages"
+    },
+    {
+      "text": "coke",
+      "label": "Beverages"
+    },
+    {
+      "text": "coke zero",
+      "label": "Beverages"
+    },
+    {
+      "text": "pepsi",
+      "label": "Beverages"
+    },
+    {
+      "text": "diet pepsi",
+      "label": "Beverages"
+    },
+    {
+      "text": "ginger ale",
+      "label": "Beverages"
+    },
+    {
+      "text": "dr pepper",
+      "label": "Beverages"
+    },
+    {
+      "text": "mountain dew",
+      "label": "Beverages"
+    },
+    {
+      "text": "seltzer",
+      "label": "Beverages"
+    },
+    {
+      "text": "la croix",
+      "label": "Beverages"
+    },
+    {
+      "text": "bubly",
+      "label": "Beverages"
+    },
+    {
+      "text": "spindrift",
+      "label": "Beverages"
+    },
+    {
+      "text": "water",
+      "label": "Beverages"
+    },
+    {
+      "text": "energy drinks",
+      "label": "Beverages"
+    },
+    {
+      "text": "red bull",
+      "label": "Beverages"
+    },
+    {
+      "text": "water",
+      "label": "Beverages"
+    },
+    {
+      "text": "bottled water",
+      "label": "Beverages"
+    },
+    {
+      "text": "water bottles",
+      "label": "Beverages"
+    },
+    {
+      "text": "orange juice",
+      "label": "Beverages"
+    },
+    {
+      "text": "apple juice",
+      "label": "Beverages"
+    },
+    {
+      "text": "cranberry juice",
+      "label": "Beverages"
+    },
+    {
+      "text": "tonic",
+      "label": "Beverages"
+    },
+    {
+      "text": "tonic water",
+      "label": "Beverages"
+    },
+    {
+      "text": "club soda",
+      "label": "Beverages"
+    },
+    {
+      "text": "iced tea",
+      "label": "Beverages"
+    },
+    {
+      "text": "kombucha",
+      "label": "Beverages"
+    },
+    {
+      "text": "milk",
+      "label": "Dairy"
+    },
+    {
+      "text": "creamer",
+      "label": "Dairy"
+    },
+    {
+      "text": "heavy cream",
+      "label": "Dairy"
+    },
+    {
+      "text": "whipped cream",
+      "label": "Dairy"
+    },
+    {
+      "text": "half & half",
+      "label": "Dairy"
+    },
+    {
+      "text": "buttermilk",
+      "label": "Dairy"
+    },
+    {
+      "text": "yogurt",
+      "label": "Dairy"
+    },
+    {
+      "text": "greek yogurt",
+      "label": "Dairy"
+    },
+    {
+      "text": "yoghurt",
+      "label": "Dairy"
+    },
+    {
+      "text": "eggs",
+      "label": "Dairy"
+    },
+    {
+      "text": "egg whites",
+      "label": "Dairy"
+    },
+    {
+      "text": "almond milk",
+      "label": "Dairy"
+    },
+    {
+      "text": "soy milk",
+      "label": "Dairy"
+    },
+    {
+      "text": "oat milk",
+      "label": "Dairy"
+    },
+    {
+      "text": "egg nog",
+      "label": "Dairy"
+    },
+    {
+      "text": "butter",
+      "label": "Dairy"
+    },
+    {
+      "text": "margarine",
+      "label": "Dairy"
+    },
+    {
+      "text": "cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "sliced cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "cheese slices",
+      "label": "Dairy"
+    },
+    {
+      "text": "kraft singles",
+      "label": "Dairy"
+    },
+    {
+      "text": "shredded cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "tex mex cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "cream cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "parmesan",
+      "label": "Dairy"
+    },
+    {
+      "text": "parmesan cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "ricotta",
+      "label": "Dairy"
+    },
+    {
+      "text": "mozzarella",
+      "label": "Dairy"
+    },
+    {
+      "text": "cheddar",
+      "label": "Dairy"
+    },
+    {
+      "text": "cheddar cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "cottage cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "romano cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "sour cream",
+      "label": "Dairy"
+    },
+    {
+      "text": "cookie dough",
+      "label": "Dairy"
+    },
+    {
+      "text": "feta",
+      "label": "Dairy"
+    },
+    {
+      "text": "feta cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "goat cheese",
+      "label": "Dairy"
+    },
+    {
+      "text": "candy",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "candies",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "snacks",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "nuts",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "pecans",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "almonds",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "walnuts",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "peanuts",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "cashews",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "chips",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "tortilla chips",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "blue corn chips",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "pita chips",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "doritos",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "lays",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "cheetos",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "hot cheetos",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "salsa",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "queso",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "crisps",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "crackers",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "ritz crackers",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "ritz bitz",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "pretzels",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "goldfish crackers",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "bark thins",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "biscuits",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "triscuits",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "chocolate",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "dark chocolate",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "milk chocolate",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "apple sauce",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "pudding",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "pudding cups",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "cookies",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "oreo",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "peek freans",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "popcorn",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "protein bars",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "quest bars",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "rx bars",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "clif bars",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "wheat thins",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "veggie straws",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "bars",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "fruit rollups",
+      "label": "Candy & Snacks"
+    },
+    {
+      "text": "beans",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "baked beans",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "chickpeas",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "peas",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "canned pineapple",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "pineapple chunks",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "black beans",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "kidney beans",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "lentils",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "diced tomatoes",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "canned tomatoes",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "canned peas",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "canned corn",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "creamed corn",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "soup",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "tomato soup",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "cream of mushroom soup",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "mushroom soup",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "vegetable stock",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "chicken stock",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "beef stock",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "vegetable broth",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "beef broth",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "chicken broth",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "coconut milk",
+      "label": "Canned Goods"
+    },
+    {
+      "text": "cereal",
+      "label": "Cereal"
+    },
+    {
+      "text": "granola",
+      "label": "Cereal"
+    },
+    {
+      "text": "muesli",
+      "label": "Cereal"
+    },
+    {
+      "text": "oats",
+      "label": "Cereal"
+    },
+    {
+      "text": "oatmeal",
+      "label": "Cereal"
+    },
+    {
+      "text": "granola bars",
+      "label": "Cereal"
+    },
+    {
+      "text": "cereal bars",
+      "label": "Cereal"
+    },
+    {
+      "text": "rice krispies",
+      "label": "Cereal"
+    },
+    {
+      "text": "cleaning",
+      "label": "Cleaning"
+    },
+    {
+      "text": "cleaner",
+      "label": "Cleaning"
+    },
+    {
+      "text": "detergent",
+      "label": "Cleaning"
+    },
+    {
+      "text": "laundry detergent",
+      "label": "Cleaning"
+    },
+    {
+      "text": "mop",
+      "label": "Cleaning"
+    },
+    {
+      "text": "bucket",
+      "label": "Cleaning"
+    },
+    {
+      "text": "swiffer",
+      "label": "Cleaning"
+    },
+    {
+      "text": "paper towel",
+      "label": "Cleaning"
+    },
+    {
+      "text": "paper towels",
+      "label": "Cleaning"
+    },
+    {
+      "text": "dishwashing liquid",
+      "label": "Cleaning"
+    },
+    {
+      "text": "dishwasher pods",
+      "label": "Cleaning"
+    },
+    {
+      "text": "tide pods",
+      "label": "Cleaning"
+    },
+    {
+      "text": "dish detergent",
+      "label": "Cleaning"
+    },
+    {
+      "text": "dish soap",
+      "label": "Cleaning"
+    },
+    {
+      "text": "dishwasher soap",
+      "label": "Cleaning"
+    },
+    {
+      "text": "sponge",
+      "label": "Cleaning"
+    },
+    {
+      "text": "garbage bags",
+      "label": "Cleaning"
+    },
+    {
+      "text": "trash bags",
+      "label": "Cleaning"
+    },
+    {
+      "text": "windex",
+      "label": "Cleaning"
+    },
+    {
+      "text": "clorox",
+      "label": "Cleaning"
+    },
+    {
+      "text": "clorox wipes",
+      "label": "Cleaning"
+    },
+    {
+      "text": "lysol",
+      "label": "Cleaning"
+    },
+    {
+      "text": "lysol wipes",
+      "label": "Cleaning"
+    },
+    {
+      "text": "wipes",
+      "label": "Cleaning"
+    },
+    {
+      "text": "kleenex",
+      "label": "Cleaning"
+    },
+    {
+      "text": "air freshener",
+      "label": "Cleaning"
+    },
+    {
+      "text": "febreeze",
+      "label": "Cleaning"
+    },
+    {
+      "text": "cleaning brushes",
+      "label": "Cleaning"
+    },
+    {
+      "text": "bottle brush",
+      "label": "Cleaning"
+    },
+    {
+      "text": "gloves",
+      "label": "Cleaning"
+    },
+    {
+      "text": "rubber gloves",
+      "label": "Cleaning"
+    },
+    {
+      "text": "disposable gloves",
+      "label": "Cleaning"
+    },
+    {
+      "text": "sponges",
+      "label": "Cleaning"
+    },
+    {
+      "text": "toilet cleaner",
+      "label": "Cleaning"
+    },
+    {
+      "text": "ketchup",
+      "label": "Condiments"
+    },
+    {
+      "text": "mustard",
+      "label": "Condiments"
+    },
+    {
+      "text": "dijon mustard",
+      "label": "Condiments"
+    },
+    {
+      "text": "relish",
+      "label": "Condiments"
+    },
+    {
+      "text": "mayo",
+      "label": "Condiments"
+    },
+    {
+      "text": "mayonnaise",
+      "label": "Condiments"
+    },
+    {
+      "text": "sauce",
+      "label": "Condiments"
+    },
+    {
+      "text": "barbecue sauce",
+      "label": "Condiments"
+    },
+    {
+      "text": "bbq sauce",
+      "label": "Condiments"
+    },
+    {
+      "text": "buffalo sauce",
+      "label": "Condiments"
+    },
+    {
+      "text": "peanut butter",
+      "label": "Condiments"
+    },
+    {
+      "text": "almond butter",
+      "label": "Condiments"
+    },
+    {
+      "text": "cashew butter",
+      "label": "Condiments"
+    },
+    {
+      "text": "vinegar",
+      "label": "Condiments"
+    },
+    {
+      "text": "white vinegar",
+      "label": "Condiments"
+    },
+    {
+      "text": "malt vinegar",
+      "label": "Condiments"
+    },
+    {
+      "text": "maple syrup",
+      "label": "Condiments"
+    },
+    {
+      "text": "syrup",
+      "label": "Condiments"
+    },
+    {
+      "text": "hot sauce",
+      "label": "Condiments"
+    },
+    {
+      "text": "franks red hot",
+      "label": "Condiments"
+    },
+    {
+      "text": "frank's red hot",
+      "label": "Condiments"
+    },
+    {
+      "text": "sriracha",
+      "label": "Condiments"
+    },
+    {
+      "text": "caesar dressing",
+      "label": "Condiments"
+    },
+    {
+      "text": "chocolate sauce",
+      "label": "Condiments"
+    },
+    {
+      "text": "chocolate syrup",
+      "label": "Condiments"
+    },
+    {
+      "text": "salad dressing",
+      "label": "Condiments"
+    },
+    {
+      "text": "balsamic dressing",
+      "label": "Condiments"
+    },
+    {
+      "text": "balsamic vinegar",
+      "label": "Condiments"
+    },
+    {
+      "text": "balsamic glaze",
+      "label": "Condiments"
+    },
+    {
+      "text": "pickles",
+      "label": "Condiments"
+    },
+    {
+      "text": "cheese whiz",
+      "label": "Condiments"
+    },
+    {
+      "text": "jam",
+      "label": "Condiments"
+    },
+    {
+      "text": "strawberry jam",
+      "label": "Condiments"
+    },
+    {
+      "text": "raspberry jam",
+      "label": "Condiments"
+    },
+    {
+      "text": "blueberry jam",
+      "label": "Condiments"
+    },
+    {
+      "text": "blackberry jam",
+      "label": "Condiments"
+    },
+    {
+      "text": "orange jam",
+      "label": "Condiments"
+    },
+    {
+      "text": "honey",
+      "label": "Condiments"
+    },
+    {
+      "text": "raw honey",
+      "label": "Condiments"
+    },
+    {
+      "text": "pasta",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "pesto",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "spaghetti",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "fettuccine",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "lasagna",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "macaroni",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "mac n cheese",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "mac & cheese",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "rice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "brown rice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "white rice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "jasmine rice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "basmati rice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "quinoa",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "couscous",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "coffee",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "decaf coffee",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "tea",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "decaf tea",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "green tea",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "earl grey tea",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "spice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "taco spice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "taco seasoning",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "cayenne pepper",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "pepper flakes",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "cinnamon",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "paprika",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "ramen",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "noodles",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "mr. noodles",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "chow mein noodles",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "chow mein",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "bay leaves",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "coriander spice",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "ground pepper",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "black pepper",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "salt",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "table salt",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "sea salt",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "himalayan salt",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "kosher salt",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "panko",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "panko bread crumbs",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "cornmeal",
+      "label": "Dry Goods"
+    },
+    {
+      "text": "meat",
+      "label": "Meat"
+    },
+    {
+      "text": "hamburger meat",
+      "label": "Meat"
+    },
+    {
+      "text": "beyond meat",
+      "label": "Meat"
+    },
+    {
+      "text": "beyond sausage",
+      "label": "Meat"
+    },
+    {
+      "text": "beyond beef",
+      "label": "Meat"
+    },
+    {
+      "text": "chicken",
+      "label": "Meat"
+    },
+    {
+      "text": "chicken breast",
+      "label": "Meat"
+    },
+    {
+      "text": "chicken breasts",
+      "label": "Meat"
+    },
+    {
+      "text": "chicken thighs",
+      "label": "Meat"
+    },
+    {
+      "text": "chicken cutlets",
+      "label": "Meat"
+    },
+    {
+      "text": "chicken wings",
+      "label": "Meat"
+    },
+    {
+      "text": "whole chicken",
+      "label": "Meat"
+    },
+    {
+      "text": "wings",
+      "label": "Meat"
+    },
+    {
+      "text": "ground chicken",
+      "label": "Meat"
+    },
+    {
+      "text": "turkey",
+      "label": "Meat"
+    },
+    {
+      "text": "sliced turkey",
+      "label": "Meat"
+    },
+    {
+      "text": "turkey breast",
+      "label": "Meat"
+    },
+    {
+      "text": "shaved turkey",
+      "label": "Meat"
+    },
+    {
+      "text": "beef",
+      "label": "Meat"
+    },
+    {
+      "text": "ground beef",
+      "label": "Meat"
+    },
+    {
+      "text": "roast beef",
+      "label": "Meat"
+    },
+    {
+      "text": "beef jerky",
+      "label": "Meat"
+    },
+    {
+      "text": "jerky",
+      "label": "Meat"
+    },
+    {
+      "text": "steak",
+      "label": "Meat"
+    },
+    {
+      "text": "burgers",
+      "label": "Meat"
+    },
+    {
+      "text": "turkey burgers",
+      "label": "Meat"
+    },
+    {
+      "text": "pork",
+      "label": "Meat"
+    },
+    {
+      "text": "pork chops",
+      "label": "Meat"
+    },
+    {
+      "text": "pork shoulder",
+      "label": "Meat"
+    },
+    {
+      "text": "ground pork",
+      "label": "Meat"
+    },
+    {
+      "text": "pulled pork",
+      "label": "Meat"
+    },
+    {
+      "text": "pancetta",
+      "label": "Meat"
+    },
+    {
+      "text": "ham",
+      "label": "Meat"
+    },
+    {
+      "text": "sliced ham",
+      "label": "Meat"
+    },
+    {
+      "text": "smoked meat",
+      "label": "Meat"
+    },
+    {
+      "text": "bacon",
+      "label": "Meat"
+    },
+    {
+      "text": "veal",
+      "label": "Meat"
+    },
+    {
+      "text": "duck",
+      "label": "Meat"
+    },
+    {
+      "text": "sausage",
+      "label": "Meat"
+    },
+    {
+      "text": "deli",
+      "label": "Meat"
+    },
+    {
+      "text": "lunch meat",
+      "label": "Meat"
+    },
+    {
+      "text": "cold cuts",
+      "label": "Meat"
+    },
+    {
+      "text": "salami",
+      "label": "Meat"
+    },
+    {
+      "text": "pepperoni",
+      "label": "Meat"
+    },
+    {
+      "text": "pepperoni sticks",
+      "label": "Meat"
+    },
+    {
+      "text": "bacon",
+      "label": "Meat"
+    },
+    {
+      "text": "turkey bacon",
+      "label": "Meat"
+    },
+    {
+      "text": "sausage",
+      "label": "Meat"
+    },
+    {
+      "text": "sausages",
+      "label": "Meat"
+    },
+    {
+      "text": "breakfast sausages",
+      "label": "Meat"
+    },
+    {
+      "text": "ribs",
+      "label": "Meat"
+    },
+    {
+      "text": "hot dogs",
+      "label": "Meat"
+    },
+    {
+      "text": "frozen",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen yogurt",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "ice cream",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "ben & jerry's",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "haagen daz",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "popcicles",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "TV dinner",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "ice",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "chicken strips",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "chicken fingers",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "chicken nuggets",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "nuggets",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "french fries",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "shoestring fries",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "fries",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "hash browns",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "potstickers",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "perogies",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "waffles",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "eggos",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen fruit",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen berries",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen blueberries",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen strawberries",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen veggies",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen peas",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen edamame",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "stir fry",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "frozen pizza",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "pierogies",
+      "label": "Frozen Foods"
+    },
+    {
+      "text": "birthday",
+      "label": "Paper Products"
+    },
+    {
+      "text": "card",
+      "label": "Paper Products"
+    },
+    {
+      "text": "paper",
+      "label": "Paper Products"
+    },
+    {
+      "text": "pens",
+      "label": "Paper Products"
+    },
+    {
+      "text": "stapler",
+      "label": "Paper Products"
+    },
+    {
+      "text": "binder",
+      "label": "Paper Products"
+    },
+    {
+      "text": "soap",
+      "label": "Personal Care"
+    },
+    {
+      "text": "body soap",
+      "label": "Personal Care"
+    },
+    {
+      "text": "body wash",
+      "label": "Personal Care"
+    },
+    {
+      "text": "hand soap",
+      "label": "Personal Care"
+    },
+    {
+      "text": "hand cream",
+      "label": "Personal Care"
+    },
+    {
+      "text": "hand sanitizer",
+      "label": "Personal Care"
+    },
+    {
+      "text": "purell",
+      "label": "Personal Care"
+    },
+    {
+      "text": "shampoo",
+      "label": "Personal Care"
+    },
+    {
+      "text": "conditioner",
+      "label": "Personal Care"
+    },
+    {
+      "text": "moisturizer",
+      "label": "Personal Care"
+    },
+    {
+      "text": "makeup",
+      "label": "Personal Care"
+    },
+    {
+      "text": "makeup wipes",
+      "label": "Personal Care"
+    },
+    {
+      "text": "tampons",
+      "label": "Personal Care"
+    },
+    {
+      "text": "deodorant",
+      "label": "Personal Care"
+    },
+    {
+      "text": "cologne",
+      "label": "Personal Care"
+    },
+    {
+      "text": "toothpaste",
+      "label": "Personal Care"
+    },
+    {
+      "text": "toothbrush",
+      "label": "Personal Care"
+    },
+    {
+      "text": "toothbrush heads",
+      "label": "Personal Care"
+    },
+    {
+      "text": "mouthwash",
+      "label": "Personal Care"
+    },
+    {
+      "text": "condoms",
+      "label": "Personal Care"
+    },
+    {
+      "text": "lube",
+      "label": "Personal Care"
+    },
+    {
+      "text": "toilet paper",
+      "label": "Personal Care"
+    },
+    {
+      "text": "tissues",
+      "label": "Personal Care"
+    },
+    {
+      "text": "preparation h",
+      "label": "Personal Care"
+    },
+    {
+      "text": "shaving gel",
+      "label": "Personal Care"
+    },
+    {
+      "text": "chapstick",
+      "label": "Personal Care"
+    },
+    {
+      "text": "vitamin",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "vitamins",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "vitamin c",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "vitamin d",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "vitamin b12",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "advil",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "tylenol",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "tums",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "pepto bismol",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "prescription",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "melatonin",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "lactaid",
+      "label": "Pharmacy"
+    },
+    {
+      "text": "salmon",
+      "label": "Seafood"
+    },
+    {
+      "text": "smoked salmon",
+      "label": "Seafood"
+    },
+    {
+      "text": "sushi",
+      "label": "Seafood"
+    },
+    {
+      "text": "tuna",
+      "label": "Seafood"
+    },
+    {
+      "text": "cod",
+      "label": "Seafood"
+    },
+    {
+      "text": "halibut",
+      "label": "Seafood"
+    },
+    {
+      "text": "haddock",
+      "label": "Seafood"
+    },
+    {
+      "text": "tilapia",
+      "label": "Seafood"
+    },
+    {
+      "text": "bass",
+      "label": "Seafood"
+    },
+    {
+      "text": "shrimp",
+      "label": "Seafood"
+    },
+    {
+      "text": "mussels",
+      "label": "Seafood"
+    },
+    {
+      "text": "oysters",
+      "label": "Seafood"
+    }
+  ]
+}
