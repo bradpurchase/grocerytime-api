@@ -1,11 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+misc:
   store: one
-  name: MyString
-  deleted_at: 
+  name: Misc.
+  deleted_at:
 
-two:
-  store: two
-  name: MyString
-  deleted_at: 
+produce:
+  store: one
+  name: Produce
+  deleted_at:
+
+dairy:
+  store: one
+  name: Dairy
+  deleted_at:

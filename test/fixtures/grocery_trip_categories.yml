@@ -2,10 +2,15 @@
 
 one:
   grocery_trip: one
-  store_category: one
-  deleted_at: 
+  store_category: misc
+  deleted_at:
 
 two:
-  grocery_trip: two
-  store_category: two
-  deleted_at: 
+  grocery_trip: one
+  store_category: produce
+  deleted_at:
+
+three:
+  grocery_trip: one
+  store_category: dairy
+  deleted_at:
