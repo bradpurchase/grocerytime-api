@@ -2,10 +2,10 @@
 
 one:
   store: one
-  items: 
-  deleted_at: 
+  items:
+  deleted_at:
 
 two:
   store: two
-  items: 
-  deleted_at: 
+  items:
+  deleted_at:

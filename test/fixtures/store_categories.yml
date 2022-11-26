@@ -9,3 +9,8 @@ produce:
   store: one
   name: Produce
   deleted_at:
+
+dairy:
+  store: one
+  name: Dairy
+  deleted_at:

@@ -9,3 +9,8 @@ two:
   grocery_trip: one
   store_category: produce
   deleted_at:
+
+three:
+  grocery_trip: one
+  store_category: dairy
+  deleted_at:

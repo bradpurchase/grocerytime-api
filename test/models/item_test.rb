@@ -40,5 +40,36 @@ class ItemTest < ActiveSupport::TestCase
         end
       end
     end
+
+    describe "set_category_id" do
+      describe "category_id_from_store_settings" do
+        let(:item_name) { "Egg Nog" }
+
+        setup do
+          item_settings = {"#{item_name.downcase.strip}": store_categories(:dairy).id}
+          trip.store.category_settings.update!(items: item_settings.to_json)
+        end
+
+        test "sets correct category" do
+          assert_equal "Dairy", item.category.store_category.name
+        end
+      end
+
+      describe "category_id_from_food_classifications_db" do
+        let(:item_name) { "Yams" }
+
+        test "sets correct category" do
+          assert_equal "Produce", item.category.store_category.name
+        end
+      end
+
+      describe "fallback" do
+        let(:item_name) { "Unidentified Food Object" }
+
+        test "falls back to default category if item is not classified" do
+          assert_equal Item::DEFAULT_CATEGORY, item.category.store_category.name
+        end
+      end
+    end
   end
 end
