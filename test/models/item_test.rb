@@ -41,10 +41,4 @@ class ItemTest < ActiveSupport::TestCase
       end
     end
   end
-
-  describe "associations" do
-    test "updates the trip's updated_at timestamp" do
-      assert_equal Time.now.to_i, item.reload.trip.updated_at.to_i
-    end
-  end
 end
