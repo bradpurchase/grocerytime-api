@@ -4,10 +4,22 @@ one:
   store_user: one
   default_store: false
   notifications: false
-  deleted_at: 
+  deleted_at:
 
 two:
   store_user: two
   default_store: false
   notifications: false
-  deleted_at: 
+  deleted_at:
+
+three:
+  store_user: three
+  default_store: true
+  notifications: false
+  deleted_at:
+
+four:
+  store_user: four
+  default_store: true
+  notifications: false
+  deleted_at:

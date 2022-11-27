@@ -4,16 +4,34 @@ one:
   store: one
   user: one
   email: MyString
-  creator: false
-  active: false
-  deleted_at: 
+  creator: true
+  active: true
+  deleted_at:
   default_store: false
 
 two:
-  store: two
+  store: one
   user: two
   email: MyString
   creator: false
-  active: false
-  deleted_at: 
+  active: true
+  deleted_at:
+  default_store: false
+
+three:
+  store: two
+  user: two
+  email: MyString
+  creator: true
+  active: true
+  deleted_at:
+  default_store: false
+
+four:
+  store: two
+  user: one
+  email: MyString
+  creator: false
+  active: true
+  deleted_at:
   default_store: false
