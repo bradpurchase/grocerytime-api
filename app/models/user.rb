@@ -1,7 +1,12 @@
 class User < ApplicationRecord
-  has_many :auth_tokens
+  has_many :auth_tokens, dependent: :destroy
+  has_many :devices, dependent: :destroy
 
-  has_many :stores
+  has_many :stores, dependent: :destroy
+  has_many :store_users, dependent: :destroy
+
+  has_many :meals, dependent: :destroy
+  has_many :recipes, dependent: :destroy
 
   def default_store
     Store.joins(users: :preferences)

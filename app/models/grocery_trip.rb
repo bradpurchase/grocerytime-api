@@ -1,8 +1,8 @@
 class GroceryTrip < ApplicationRecord
   belongs_to :store
 
-  has_many :items
-  has_many :categories, class_name: GroceryTripCategory.to_s
+  has_many :items, dependent: :destroy
+  has_many :categories, class_name: GroceryTripCategory.to_s, dependent: :destroy
 
   before_create :set_trip_name
 
