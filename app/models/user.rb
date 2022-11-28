@@ -1,4 +1,6 @@
 class User < ApplicationRecord
+  include Authable
+
   has_many :auth_tokens, dependent: :destroy
   has_many :devices, dependent: :destroy
 

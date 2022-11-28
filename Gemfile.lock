@@ -69,6 +69,7 @@ GEM
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
     ast (2.4.2)
+    bcrypt (3.1.18)
     bindex (0.8.1)
     bootsnap (1.14.0)
       msgpack (~> 1.2)
@@ -238,6 +239,7 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
+  bcrypt
   bootsnap
   capybara
   debug
