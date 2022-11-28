@@ -5,11 +5,11 @@ module Authable
     def self.valid_credentials(email, password)
       user = find_by(email: email)
       return false if user.nil?
-      user.password_is_valid?(login_params[:password]) ? user : nil
+      user.password_is_valid?(password) ? user : nil
     end
 
-    def self.password_is_valid?(password)
-      password == BCrypt::Password.new(user.password)
+    def password_is_valid?(check_password)
+      BCrypt::Password.new(password) == check_password
     end
   end
 end

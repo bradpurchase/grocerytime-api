@@ -5,6 +5,8 @@ class AuthToken < ApplicationRecord
   before_create :generate_access_token
   before_create :cleanup_tokens
 
+  default_scope { order(created_at: :asc) }
+
   def generate_access_token
     self.access_token = SecureRandom.hex(20)
   end

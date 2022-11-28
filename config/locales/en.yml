@@ -32,3 +32,4 @@
 en:
   auth:
     invalid_client_credentials: The provided client credentials are invalid
+    invalid_user_credentials: Your email address or password was incorrect. Please try again!

@@ -2,11 +2,14 @@ module HasClientCredentials
   extend ActiveSupport::Concern
 
   included do
+    attr_reader :client
+
     before_action :validate_credentials
   end
 
   def validate_credentials
-    return if ApiClient.exists?(key: client_credentials[0], secret: client_credentials[1])
+    @client = ApiClient.find_by(key: client_credentials[0], secret: client_credentials[1])
+    return @client unless @client.nil?
     render json: {error: error_message}, status: :unauthorized
   end
 
