@@ -1,6 +1,6 @@
 class AuthTokenSerializer < ActiveModel::Serializer
   attributes :id,
-    :client_id,
+    :user_id,
     :access_token,
     :device_name,
     :created_at,

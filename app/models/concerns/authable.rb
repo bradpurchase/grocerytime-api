@@ -4,8 +4,7 @@ module Authable
   included do
     def self.valid_credentials(email, password)
       user = find_by(email: email)
-      return false if user.nil?
-      user.password_is_valid?(password) ? user : nil
+      user&.password_is_valid?(password) ? user : nil
     end
 
     def password_is_valid?(check_password)

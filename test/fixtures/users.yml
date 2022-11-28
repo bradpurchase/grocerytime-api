@@ -2,12 +2,12 @@
 
 one:
   email: brad@grocerytime.app
-  password: MyText
-  name: MyString
+  password: $2a$12$TAKVDbBVZ4b5fGsF96j3ouKpqMUvSNiEpLNmU1kF3xGu.MgoB7tWu
+  name: Brad
   last_seen_at:
   password_reset_token:
   password_reset_token_expiry:
-  siwa_id: one
+  siwa_id:
 
 two:
   email: trey@grocerytime.app
@@ -16,4 +16,4 @@ two:
   last_seen_at:
   password_reset_token:
   password_reset_token_expiry:
-  siwa_id: two
+  siwa_id:
