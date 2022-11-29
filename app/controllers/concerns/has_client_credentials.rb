@@ -9,8 +9,8 @@ module HasClientCredentials
 
   def validate_credentials
     @client = ApiClient.find_by(key: client_credentials[0], secret: client_credentials[1])
-    return @client unless @client.nil?
-    render json: {error: error_message}, status: :unauthorized
+    return render json: {error: error_message}, status: :unauthorized if @client.nil?
+    @client
   end
 
   def error_message

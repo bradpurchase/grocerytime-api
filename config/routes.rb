@@ -6,7 +6,10 @@ Rails.application.routes.draw do
 
   namespace :api, defaults: {format: :json} do
     namespace :v2 do
-      resources :login, only: [:create]
+      namespace :auth do
+        resource :identity, only: :show, controller: :identity
+        resource :login, only: :create, controller: :login
+      end
     end
   end
 end

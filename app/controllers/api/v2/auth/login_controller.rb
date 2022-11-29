@@ -1,4 +1,4 @@
-class Api::V2::LoginController < Api::V2::BaseController
+class Api::V2::Auth::LoginController < Api::V2::BaseController
   include HasClientCredentials
 
   def create

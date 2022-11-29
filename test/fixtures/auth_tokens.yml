@@ -3,8 +3,8 @@
 one:
   client: one
   user: one
-  access_token: MyString
-  device_name: MyString
+  access_token: <%= SecureRandom.hex(20) %>
+  device_name: iPhone
 
 two:
   client: two
