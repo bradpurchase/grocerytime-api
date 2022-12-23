@@ -10,6 +10,10 @@ Rails.application.routes.draw do
         resource :identity, only: [:show, :destroy], controller: :identity
         resource :login, only: :create, controller: :login
       end
+
+      resources :stores do
+        resources :trips, only: [:show, :create]
+      end
     end
   end
 end
