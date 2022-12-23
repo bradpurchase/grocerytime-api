@@ -7,7 +7,7 @@ Rails.application.routes.draw do
   namespace :api, defaults: {format: :json} do
     namespace :v2 do
       namespace :auth do
-        resource :identity, only: :show, controller: :identity
+        resource :identity, only: [:show, :destroy], controller: :identity
         resource :login, only: :create, controller: :login
       end
     end

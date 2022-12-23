@@ -5,10 +5,21 @@ class Api::V2::Auth::IdentityControllerTest < ActionDispatch::IntegrationTest
     @auth_token = auth_tokens(:one)
   end
 
-  test "returns user information if valid bearer token is provided" do
-    get api_v2_auth_identity_path, headers: valid_bearer_token
-    assert_response :ok
-    assert_equal @auth_token.user_id, JSON.parse(response.body)["id"]
+  describe "#show" do
+    test "returns user information if valid bearer token is provided" do
+      get api_v2_auth_identity_path, headers: valid_bearer_token
+      assert_response :ok
+      assert_equal @auth_token.user_id, JSON.parse(response.body)["id"]
+    end
+  end
+
+  describe "#destroy" do
+    test "hard-deletes the user and returns it" do
+      delete api_v2_auth_identity_path, headers: valid_bearer_token
+      assert_response :ok
+      assert_equal @auth_token.user_id, JSON.parse(response.body)["id"]
+      assert_nil @auth_token.user
+    end
   end
 
   private
