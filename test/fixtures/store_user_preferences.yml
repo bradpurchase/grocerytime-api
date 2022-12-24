@@ -2,7 +2,7 @@
 
 one:
   store_user: one
-  default_store: false
+  default_store: true
   notifications: false
   deleted_at:
 
@@ -20,6 +20,6 @@ three:
 
 four:
   store_user: four
-  default_store: true
+  default_store: false
   notifications: false
   deleted_at:
