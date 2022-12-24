@@ -12,7 +12,7 @@ Rails.application.routes.draw do
       end
 
       resources :stores do
-        resources :trips, only: [:show, :create]
+        #resources :trips, only: [:show, :create]
       end
     end
   end

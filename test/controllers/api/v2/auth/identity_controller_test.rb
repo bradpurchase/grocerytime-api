@@ -20,6 +20,11 @@ class Api::V2::Auth::IdentityControllerTest < ActionDispatch::IntegrationTest
       assert_equal @auth_token.user_id, JSON.parse(response.body)["id"]
       assert_nil @auth_token.user
     end
+
+    test "also deletes associated records" do
+      skip
+      # TODO: test this...
+    end
   end
 
   private

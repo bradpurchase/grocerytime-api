@@ -4,6 +4,8 @@ module HasClientCredentials
   included do
     attr_reader :client
 
+    skip_before_action :validate_bearer_token
+
     before_action :validate_credentials
   end
 

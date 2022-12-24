@@ -16,4 +16,13 @@ class User < ApplicationRecord
       .where(store_user_preferences: {default_store: true})
       .last
   end
+
+  def stores_including_shared
+    Store
+      .joins(users: [:preferences])
+      .joins(:trips)
+      .where(store_users: {user_id: id})
+      .group("stores.id, store_user_preferences.default_store")
+      .order("store_user_preferences.default_store DESC, MAX(grocery_trips.updated_at) DESC")
+  end
 end
