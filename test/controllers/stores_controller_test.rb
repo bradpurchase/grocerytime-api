@@ -21,10 +21,11 @@ class Api::V2::StoresControllerTest < ActionDispatch::IntegrationTest
 
     test "stores contain information about store users" do
       get api_v2_stores_path, headers: {Authorization: "Bearer #{auth_token.access_token}"}
-      assert_not_nil JSON.parse(response.body)[0]["users"]
-      assert_not_nil JSON.parse(response.body)[0]["users"][0]["user"]["id"]
-      assert_not_nil JSON.parse(response.body)[0]["users"][0]["user"]["email"]
-      assert_not_nil JSON.parse(response.body)[0]["users"][0]["user"]["name"]
+      response_users = JSON.parse(response.body)[0]["users"]
+      assert_not_nil response_users
+      assert_not_nil response_users.first["user"]["id"]
+      assert_not_nil response_users.first["user"]["email"]
+      assert_not_nil response_users.first["user"]["name"]
     end
   end
 end
